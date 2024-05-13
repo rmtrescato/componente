@@ -16,4 +16,5 @@
 .btn button:hover {
  background-color: #00d6ed;
  transition-duration: 0.5s;
+ text-transform: uppercase;
 }
